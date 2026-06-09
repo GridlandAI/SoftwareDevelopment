@@ -49,6 +49,4 @@ Each specialist is also available as a standalone `.skill` file if you only want
 
 Each skill carries its own `knowledge/` folder of synthesized topic files. Every topic file is structured as: Overview, Core concepts, Frameworks and models, Patterns, Principles and best practices, Anti-patterns and pitfalls, Decision guidance, Source attribution, and a "Recent developments (2024-2026)" section. The `devmentor-hub` skill also carries the cross-cutting pattern catalog, quality-attributes catalog, and source map.
 
-## Conventions
 
-American English, no em-dashes. The advisors aim to present trade-offs honestly, avoid hype, ground recommendations in the knowledge base, and produce concrete artifacts.
